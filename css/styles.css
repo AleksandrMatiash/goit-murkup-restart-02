@@ -1,0 +1,70 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+/*хедер, лого*/
+.web-logo {
+  color: #4d5ae5;
+}
+.studio-link,
+footer a {
+  font-family: Raleway;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+  vertical-align: middle;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #2e2f42;
+}
+
+.nav-list a {
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.addr-ul a {
+  color: #434455;
+  text-decoration: none;
+}
+
+/*секция 1, footer backgr*/
+h1 {
+  color: #ffffff;
+}
+.section-one,
+footer {
+  background-color: #2e2f42;
+}
+/*секция 2 */
+
+.hid {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+/* секция 3 */
+.section-three {
+  background-color: #f4f4fd;
+}
+
+/*футер*/
+footer a {
+  color: #f4f4fd;
+}
+.p-footer {
+  color: #f4f4fd;
+}
